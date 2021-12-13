@@ -1,0 +1,5 @@
+{
+    "mongoURI1" : "mongodb+srv://root:root@cluster0.jct2g.mongodb.net/contactKeeper?authSource=admin&replicaSet=atlas-o1lotv-shard-0&readPreference=primary&appname=MongoDB%20Compass&ssl=true",
+    "mongoURI2" : "mongodb://localhost:27017/contactKeeper",
+    "jwtSecret" : "secret"
+}
